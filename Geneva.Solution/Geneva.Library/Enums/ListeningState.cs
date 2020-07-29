@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Geneva.ConsoleApplication
+namespace Geneva.Library.Enums
 {
     public enum ListeningState
     {
